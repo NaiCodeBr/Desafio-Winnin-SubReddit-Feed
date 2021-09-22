@@ -15,9 +15,9 @@ ________________________________________________________
 
 
 
-```
+
 Functionalities
-```
+
 
 ### **<u>Web Application Consists of consuming data from Apis</u>**
 
@@ -39,19 +39,19 @@ https://www.reddit.com/r/subreddit/rising.json
 
 ### <u>Content display</u>
 
-```
+
 Each Api results in different data deliveries. But with the same display format.
 Thus, as each button disposes the same function but 
 requesting data from its respective API which by the way is intuitive to the name.
-```
+
 
 
 
 ### **<u>See More butto</u><u>n</u>**
 
-```
+
 Usage functionality, shows more results
-```
+
 
 
 
