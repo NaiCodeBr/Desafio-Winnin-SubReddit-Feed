@@ -10,7 +10,7 @@ ________________________________________________________
 
 ​    
 
-![](/home/naicodebr/Imagens/hot.png)
+![hot](https://user-images.githubusercontent.com/87155076/134356378-d2b69995-4535-42a9-8c60-e4297ece45c8.png)
 
 /Application captured image
 
