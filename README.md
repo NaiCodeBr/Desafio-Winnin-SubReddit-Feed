@@ -4,7 +4,7 @@
 
 ________________________________________________________
 
-   [Access and see the application working by clicking here](https://zealous-ride-5992a1.netlify.app/)** -- (Netlify)
+   [Access and see the application working by clicking here](https://zealous-ride-5992a1.netlify.app/) -- (Netlify)
 
  Video Demo: [Click here to see the video of the application working](https://drive.google.com/drive/folders/1PMNZARoo2xV7wuc1ty85iRmhn5ROUhQh?usp=sharing)
   
