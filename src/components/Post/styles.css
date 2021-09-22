@@ -1,0 +1,33 @@
+.post-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+}
+
+.post-container .img {
+  height: 100px;
+  width: 100px;
+  border-radius: 6px;
+  background-color: var(--cinza);
+}
+
+.post {
+  width: calc(100% - 100px);
+  margin: auto 1rem;
+  display: flex;
+  flex-direction: column;
+  row-gap: 5px;
+}
+
+.post h2 {
+  font-size: 1.2rem;
+  font-family: Roboto;
+}
+
+.post .descricao {
+  color: var(--cinza-texto);
+}
+
+.post .descricao span {
+  color: var(--roxo);
+}

@@ -1,0 +1,25 @@
+.button {
+  width: 150px;
+  padding: 0.5rem;
+  margin: 0 0.5rem;
+  font-size: 1rem;
+  color: var(--branco);
+  border: none;
+  border-radius: 6px;
+  outline: none;
+  cursor: pointer;
+}
+
+.button.primary {
+  background-color: var(--roxo);
+}
+
+.button.secondary {
+  background-color: var(--cinza);
+}
+
+@media screen and (max-width: 768px) {
+  .button {
+    width: 100px;
+  }
+}

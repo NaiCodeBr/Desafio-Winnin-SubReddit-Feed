@@ -1,0 +1,7 @@
+use npm: 
+    $ npm install
+    $ npm start
+
+or use yarn:
+    $ yarn install
+    $ yarn start

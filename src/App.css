@@ -1,0 +1,57 @@
+.container {
+  width: 100%;
+  height: 100%;
+  max-width: 780px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  box-shadow: 0 0 1px 2px var(--cinza);
+}
+
+.app-header {
+  text-align: center;
+  background-color: var(--roxo);
+  padding: 0.5rem 0;
+  color: var(--branco);
+  font-family: "Roboto", sans-serif;
+}
+
+.app-header span {
+  color: var(--amarelo);
+}
+
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.posts {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.posts .loading,
+.posts .error {
+  text-align: center;
+  margin: 5rem 0;
+  color: var(--roxo);
+  font-family: Roboto;
+}
+
+.posts .error {
+  color: red;
+}
+
+.posts hr {
+  margin: 0.5rem;
+  border: none;
+  height: 2px;
+  background-color: var(--cinza);
+}
+
+.posts button {
+  margin: 1rem auto;
+  width: 100%;
+}
