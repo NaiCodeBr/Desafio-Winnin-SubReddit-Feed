@@ -1,14 +1,13 @@
-<h1>SubReddit - Feed<h1>
+<h1>SubReddit - Feed</h1>
 
 <p>Responsive web application with features to display subreddit feeds (hot, new, rising) by consuming APIs</p>
 
 ________________________________________________________
 
-   **[Access and see the application working by clicking here](https://zealous-ride-5992a1.netlify.app/)** -- (Netlify)
+   [Access and see the application working by clicking here](https://zealous-ride-5992a1.netlify.app/)** -- (Netlify)
 
- **Video Demo:** [Click here to see the video of the application working](https://drive.google.com/drive/folders/1PMNZARoo2xV7wuc1ty85iRmhn5ROUhQh?usp=sharing)
-
-​    
+ Video Demo: [Click here to see the video of the application working](https://drive.google.com/drive/folders/1PMNZARoo2xV7wuc1ty85iRmhn5ROUhQh?usp=sharing)
+  
 
 ![hot](https://user-images.githubusercontent.com/87155076/134356378-d2b69995-4535-42a9-8c60-e4297ece45c8.png)
 
